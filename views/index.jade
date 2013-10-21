@@ -1,5 +1,25 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+  div.container
+    div.top
+      img#magellan-img(src="/images/magellan.jpg")
+      h1 Magellan's Travels
+      h3 Pick a Destination 
+      span.glyphicon.glyphicon-heart
+      h4 
+        <a href="#" class="location">Seville</a> -
+        <a href="#" class="location">Canary Islands</a> -
+        <a href="#" class="location">Cape Verde</a> -
+        <a href="#" class="location">Strait of Magellan</a> -
+        <a href="#" class="location">Guam</a> -
+        <a href="#" class="location">The Philippines</a>
+      br
+      img#travel-img(src="/images/travel.gif")
+      br
+      br
+      div#results
+
+  script(src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js")
+  script(src="/javascripts/main.js")
+  // script(src="/javascripts/main.js")

@@ -2,7 +2,27 @@ body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
-
 a {
   color: #00B7FF;
+}
+.container {
+	max-width: 400px;
+}
+#magellan-img {
+	height:200px;
+	width: auto;
+}
+.top {
+	text-align: center;
+}
+ol {
+	padding-left: 100px; 
+}
+#travel-img {
+	height: 100px;
+	width: auto;
+}
+img {
+	height:300px;
+	width: auto;
 }
