@@ -28,8 +28,7 @@ Magellan's voyage.
 instead of full page refreshes. Plan out the design of how
 this would work and what would be different. Some questions
 you may want to ask yourself:
-
-     *   When do I make the Ajax request?
+    *   When do I make the Ajax request?
     *   What should happen when the user clicks the Next button?
     *   What URL should the Ajax request be sent to?
     *   What response should the Ajax request return to the client?
