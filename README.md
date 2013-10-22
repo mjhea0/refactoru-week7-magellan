@@ -11,13 +11,13 @@ Ajax requests.
 1.  The user should start on the home page at Seville, where Magellandeparted Spain in 1519.
 2.  Create a separate page for each of the following locations from
 Magellan's expedition:
-
-    *   Seville
-    *   Canary Islands
-    *   Cape Verde
-    *   Strait of Magellan
-    *   Guam
-    *   Philippines
+    * Seville
+    * Canary Islands
+    * Cape Verde
+    * Strait of Magellan
+    * Guam
+    * Philippines
+    
 3.  At each location (except the last), a next button should leadthe user to a new page with information about that stop on
 Magellan's voyage.
 
